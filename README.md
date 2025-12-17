@@ -23,4 +23,4 @@ Python, Pandas, NumPy, Matplotlib, NLP techniques, Jupyter Notebook
 - Generated realistic synthetic episode titles inspired by the original series  
 
 ## 📝 Note
-This project was completed as part of a data science course and focuses on exploratory analysis and introductory NLP techniques applied to real-world text data.
+This project was completed as part of a data science course and focuses on exploratory analysis and introductory NLP techniques applied to real-world text data. 
